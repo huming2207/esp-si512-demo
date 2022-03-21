@@ -1,0 +1,3 @@
+[submodule "components/si512"]
+	path = components/si512
+	url = git@github.com:huming2207/esp-si512.git
